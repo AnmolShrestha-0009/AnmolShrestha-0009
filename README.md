@@ -1,6 +1,23 @@
 # 💫 About Me:
-I'm currently working on...<br>"Building my foundational skills in Data Structures and Algorithms as part of my Computer Engineering coursework.<br>""Developing small-scale Python scripts to automate daily tasks."<br>I'm looking to collaborate on..."Beginner-friendly Python projects or open-source repositories focused on Data Science.<br>""Study groups or projects related to my college curriculum."
 
+Hi, I'm Anmol Shrestha 👋
+
+Computer Engineering Student | AI/ML Enthusiast | Aspiring AI Engineer
+
+I'm a Computer Engineering student  passionate about Artificial Intelligence, Machine Learning, and building intelligent systems.
+
+I enjoy exploring how AI works under the hood, implementing ML/DL algorithms, and turning theoretical concepts into practical projects.
+
+
+🎓 Studying Computer Engineering .
+
+🤖 Interested in Machine Learning, Deep Learning, and Generative AI.
+
+🧠 Exploring LLMs, RAG, LangChain, and AI Agent architectures.
+
+💻 Building projects to strengthen my engineering and programming skills.
+
+🌱 Continuously learning, experimenting, and improving.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/anmol.shrestha.37625) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anmolshrestha441/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anmol-shrestha-4130523ba/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shresthaanmol2065@gmail.com) 
